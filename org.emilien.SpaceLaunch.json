@@ -31,7 +31,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/elescoute/spacelaunch",
-                    "commit": "0e12a668bb91556c88f91c8e105a5b7900bbac82"
+                    "commit": "c65cda91669432ff0f0f2b1ea551c8da16ecfec4"
                 }
             ]
         }
