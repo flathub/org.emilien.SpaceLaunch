@@ -1,13 +1,14 @@
 {
     "app-id" : "org.emilien.SpaceLaunch",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "41",
+    "runtime-version" : "42",
     "sdk" : "org.gnome.Sdk",
     "command" : "spacelaunch",
     "finish-args" : [
         "--share=network",
         "--share=ipc",
         "--socket=fallback-x11",
+        "--device=dri",
         "--socket=wayland"
     ],
     "cleanup" : [
@@ -31,7 +32,7 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/elescoute/spacelaunch",
-                    "commit": "2db49607ad3339eb2248c216562c3b02324a5fb2"
+                    "commit": "110d479d501468c7648fb80797c4f2139e5345b5"
                 }
             ]
         }
