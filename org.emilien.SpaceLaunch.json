@@ -31,9 +31,9 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://gitlab.com/elescoute/spacelaunch",
-                    "tag": "1.2.3",
-                    "commit": "f2610d40eef0fc703f9b3ec3a2bfcf38b8189cd8"
+                    "url" : "https://gitlab.com/elescoute/spacelaunch.git",
+                    "release": "1.2.3",
+                    "commit": "6138008b0ab992cb38af18ea6c02337623f7843c"
                 }
             ]
         }
