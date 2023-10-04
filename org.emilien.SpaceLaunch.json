@@ -1,7 +1,7 @@
 {
     "app-id" : "org.emilien.SpaceLaunch",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "43",
+    "runtime-version" : "44",
     "sdk" : "org.gnome.Sdk",
     "command" : "spacelaunch",
     "finish-args" : [
