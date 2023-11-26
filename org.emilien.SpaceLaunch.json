@@ -1,7 +1,7 @@
 {
     "app-id" : "org.emilien.SpaceLaunch",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "43",
+    "runtime-version" : "45",
     "sdk" : "org.gnome.Sdk",
     "command" : "spacelaunch",
     "finish-args" : [
@@ -32,8 +32,8 @@
                 {
                     "type" : "git",
                     "url" : "https://gitlab.com/elescoute/spacelaunch.git",
-                    "release": "1.2.3",
-                    "commit": "6138008b0ab992cb38af18ea6c02337623f7843c"
+                    "release": "1.2.4",
+                    "commit": "eb3a2fe51ed505952721dae0251b39ba475452c8"
                 }
             ]
         }
