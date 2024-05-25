@@ -31,7 +31,7 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://gitlab.com/elescoute/spacelaunch.git",
+                    "url" : "https://gitlab.com/elescoute/spacelaunch1.git",
                     "release": "1.2.5",
                     "commit": "2e3c251ae35d09040f318f40e4c1e2322b0cc05e"
                 }
