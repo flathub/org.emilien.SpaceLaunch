@@ -33,7 +33,7 @@
                     "type" : "git",
                     "url" : "https://gitlab.com/elescoute/spacelaunch1.git",
                     "release": "1.2.5",
-                    "commit": "ce7bc7897ae6ca9055aebac71936682a6658ed89"
+                    "commit": "a0c92f87dfeba6acc0ad9e22a76019e0ce412930"
                 }
             ]
         }
